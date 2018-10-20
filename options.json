@@ -1,0 +1,6 @@
+{
+  "projectPath": "/home/julien/Sources/chess",
+  "workersPath": "./src/",
+  "workerPath" : false,
+  "definitionFile" : "workerService.definitions.ts"
+}
